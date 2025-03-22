@@ -53,7 +53,7 @@ function App() {
           <h2>📍 {weather.location}</h2>
           <div className="weather">
             {weather.temperature.map((temp, index) => (
-              <p key={index}>🌤️ Hour {index + 1}: {temp}°C</p>
+              <p>🌤️ Hour {index + 1}: {temp}°C</p>
             ))}
           </div>
         </div>
