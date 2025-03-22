@@ -8,7 +8,7 @@ A beautiful and nature-inspired weather app that dynamically updates based on re
 - 🌡️ Displays temperature, humidity, and weather status  
 - 📅 Shows weather forecast for selected locations
 
-  ## ⚙️ How It Works?  
+## ⚙️ How It Works?  
 1️⃣ Enter a city name 📍  
 2️⃣ Fetches real-time weather data using the Open-Meteo API 🌍  
 3️⃣ Updates temperature 🎨  
@@ -19,14 +19,9 @@ A beautiful and nature-inspired weather app that dynamically updates based on re
 - 🌐 Open-Meteo API  
 - 💅 Styled with CSS for a nature-inspired UI
 
- ## 📜 API Used
-- 🌦️ Open-Meteo API - Provides real-time weather data.
-- 🗺️ Open-Meteo Geocoding API - Converts city names to coordinates.
-
- ## 📜 API Used
+## 📜 API Used
 - 🌦️ Open-Meteo Weather API - https://api.open-meteo.com/
+- 🗺️ Open-Meteo Geocoding API - https://geocoding-api.open-meteo.com/
 
-🗺️ Open-Meteo Geocoding API - https://geocoding-api.open-meteo.com/
-
- ## 📜 License
-This project is open-source and free to use. Feel free to contribute! 🚀
+## 📜 License
+- This project is open-source and free to use. Feel free to contribute! 🚀
