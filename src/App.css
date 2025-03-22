@@ -84,3 +84,57 @@ title {
   color: #1b5e20;
   text-shadow: 0 0 4px rgba(56, 142, 60, 0.2);
 }
+@media (max-width: 768px) {
+  .container {
+    width: 90%;
+    padding: 15px;
+  }
+
+  .search {
+    flex-wrap: wrap;
+  }
+
+  .search input {
+    width: 100%;
+    font-size: 14px;
+  }
+
+  .search button {
+    width: 100%;
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  .output {
+    padding: 12px;
+  }
+
+  .weather p {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    width: 95%;
+    padding: 10px;
+  }
+
+  .title {
+    font-size: 24px;
+  }
+
+  .search input {
+    font-size: 13px;
+    padding: 8px;
+  }
+
+  .search button {
+    font-size: 13px;
+    padding: 7px;
+  }
+
+  .weather p {
+    font-size: 14px;
+  }
+}
